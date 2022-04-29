@@ -48,7 +48,7 @@ public class Sort{
             for (int i = lastIndex; i > firstIndex; i--)
             {
                 // 基準値未満の値のインデックスを代入
-                if (array[i] < pivot)
+                if (array[i] < pivot) 
                 {
                     lastIndex = i;
                     found = true;
@@ -67,7 +67,7 @@ public class Sort{
             // 次回の末端からの探索開始インデックスを設定
             lastIndex--;
         // 次回の「先頭からの探索」と「末端からの探索」がぶつかる場合、探索を終了
-        } while (true);
+        } while (firstIndex < lastIndex);
 
         //　基準値未満と基準値以上の境界インデックスを特定
         firstIndex = 1;
@@ -76,11 +76,11 @@ public class Sort{
             firstIndex++;
         }
 
-        //　基準値未満と基準値以上のグループに分け、各グループで再帰処理をする。
+        //　基準値未満と基準値以上のグループに分け、再帰処理を行う
         int[] smallArr = SortArray(array[..firstIndex]);
         int[] largeArr = SortArray(array[firstIndex..]);
 
-        // 各グループ（配列）を統合する。
+        // ２つのグループ（配列）を結合
         int[] resultArr = new int[array.Length];
         System.Array.Copy(smallArr, resultArr, smallArr.Length);
         System.Array.Copy(largeArr, 0, resultArr, smallArr.Length, largeArr.Length);

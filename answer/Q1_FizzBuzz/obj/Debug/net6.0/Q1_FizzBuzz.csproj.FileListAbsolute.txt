@@ -1,0 +1,15 @@
+E:\GitHub\20220611-event-questions\answer\Q1_FizzBuzz\bin\Debug\net6.0\Q1_FizzBuzz.exe
+E:\GitHub\20220611-event-questions\answer\Q1_FizzBuzz\bin\Debug\net6.0\Q1_FizzBuzz.deps.json
+E:\GitHub\20220611-event-questions\answer\Q1_FizzBuzz\bin\Debug\net6.0\Q1_FizzBuzz.runtimeconfig.json
+E:\GitHub\20220611-event-questions\answer\Q1_FizzBuzz\bin\Debug\net6.0\Q1_FizzBuzz.dll
+E:\GitHub\20220611-event-questions\answer\Q1_FizzBuzz\bin\Debug\net6.0\Q1_FizzBuzz.pdb
+E:\GitHub\20220611-event-questions\answer\Q1_FizzBuzz\obj\Debug\net6.0\Q1_FizzBuzz.csproj.AssemblyReference.cache
+E:\GitHub\20220611-event-questions\answer\Q1_FizzBuzz\obj\Debug\net6.0\Q1_FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\20220611-event-questions\answer\Q1_FizzBuzz\obj\Debug\net6.0\Q1_FizzBuzz.AssemblyInfoInputs.cache
+E:\GitHub\20220611-event-questions\answer\Q1_FizzBuzz\obj\Debug\net6.0\Q1_FizzBuzz.AssemblyInfo.cs
+E:\GitHub\20220611-event-questions\answer\Q1_FizzBuzz\obj\Debug\net6.0\Q1_FizzBuzz.csproj.CoreCompileInputs.cache
+E:\GitHub\20220611-event-questions\answer\Q1_FizzBuzz\obj\Debug\net6.0\Q1_FizzBuzz.dll
+E:\GitHub\20220611-event-questions\answer\Q1_FizzBuzz\obj\Debug\net6.0\refint\Q1_FizzBuzz.dll
+E:\GitHub\20220611-event-questions\answer\Q1_FizzBuzz\obj\Debug\net6.0\Q1_FizzBuzz.pdb
+E:\GitHub\20220611-event-questions\answer\Q1_FizzBuzz\obj\Debug\net6.0\Q1_FizzBuzz.genruntimeconfig.cache
+E:\GitHub\20220611-event-questions\answer\Q1_FizzBuzz\obj\Debug\net6.0\ref\Q1_FizzBuzz.dll
